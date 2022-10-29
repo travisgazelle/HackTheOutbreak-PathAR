@@ -12,29 +12,29 @@ Level of prevention: Primary Prevention
   - Immunization campaign
 
 Measles Overview:
-On average, one infected person can infect up to 18 others
-90% of those not immune and in contact become infected
-Virus can live up to two hours in airspace
-Those infected can spread the virus 4 days before and after rash appears
-Symptoms start 4 days after exposure
-93-95% immunization will prevent spread
-Only one diagnosed case needed to declare an outbreak
-30% of those infected in resource poor settings die from complications of measles (MSF)
+  - On average, one infected person can infect up to 18 others
+  - 90% of those not immune and in contact become infected
+  - Virus can live up to two hours in airspace
+  - Those infected can spread the virus 4 days before and after rash appears
+  - Symptoms start 4 days after exposure
+  - 93-95% immunization will prevent spread
+  - Only one diagnosed case needed to declare an outbreak
+  - 30% of those infected in resource poor settings die from complications of measles (MSF)
 
 Symptoms:
-high fever
-Distinctive rash starting on the face, spreading to the whole body
-Tiny white spots in the mouth
-Pneumonia
-Severe diarrhea
-Blindness
-Encephalitis (swelling of the brain)
-Long-term weakening of the immune system
+  - High fever
+  - Distinctive rash starting on the face, spreading to the whole body
+  - Tiny white spots in the mouth
+  - Pneumonia
+  - Severe diarrhea
+  - Blindness
+  - Encephalitis (swelling of the brain)
+  - Long-term weakening of the immune system
 
 Factors leading to outbreak:
-Overcrowding
-Lack of access to water/sanitation
-War/Conflict
-Lack of trust in vaccines
-Lack of medical infrastructure/medical care access
-Malnutrition
+  - Overcrowding
+  - Lack of access to water/sanitation
+  - War/Conflict
+  - Lack of trust in vaccines
+  - Lack of medical infrastructure/medical care access
+  - Malnutrition
