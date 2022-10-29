@@ -8,7 +8,7 @@ The job is to use augmented reality to respond to or contain the outbreak
 
 Level of prevention: Primary Prevention
   - Implemented before illness or exposure has occured
-  - Targedted towards general population
+  - Targeted towards general population
   - Immunization campaign
 
 Measles Overview:
