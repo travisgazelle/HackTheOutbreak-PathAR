@@ -1,3 +1,5 @@
-https://www.rcsb.org/
+https://www.rcsb.org/ # need PDB code 
+
+#these sources have to be accurately formatted 
 https://www.science.org/content/article/why-efforts-make-better-more-universal-coronavirus-vaccines-are-struggling
 https://www.nature.com/articles/d41586-020-01444-z
